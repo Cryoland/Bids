@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="159" height="29" viewBox="0 0 159 29">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+        font: bold 30px "Open Sans";	
+      }
+    </style>
+  </defs>
+ <text class="cls-1" x="45" y="20">[ Logo ]</text>
+</svg>
